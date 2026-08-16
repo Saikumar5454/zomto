@@ -1,0 +1,1 @@
+fav_places = ['Paris', 'New York', 'Tokyo']
