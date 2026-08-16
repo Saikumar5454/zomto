@@ -1,1 +1,1 @@
-fav_dishes = ['Pizza', 'Sushi', 'Pasta']
+fav_dishes = ['Pizza', 'Sushi', 'ghinge']
