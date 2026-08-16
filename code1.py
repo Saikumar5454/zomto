@@ -1,3 +1,3 @@
 name = 'Rohit'
 centuries = 21
-half_century = 50
+half_century = 52
