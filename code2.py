@@ -1,1 +1,2 @@
 place = 'HYD'
+state = 'Telangana'
