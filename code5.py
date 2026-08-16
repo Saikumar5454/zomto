@@ -1,0 +1,1 @@
+fav_dishes = ['Pizza', 'Sushi', 'Pasta']
